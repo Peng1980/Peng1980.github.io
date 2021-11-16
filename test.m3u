@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 ,TV9
+http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
+
 #EXTINF:-1 group-title="Chinese TV", Star Chinese Movies HD
 https://liveanevia.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd
 #EXTINF:-1 group-title="Chinese TV", Shanghai Dragon TV
