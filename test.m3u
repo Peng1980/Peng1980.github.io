@@ -1,0 +1,28 @@
+#EXTM3U
+
+#EXTINF:-1 ,NewTV超级电影
+http://39.134.66.66/PLTV/88888888/224/3221225635/index.m3u8
+#EXTINF:-1 ,SiTV劲爆体育	
+http://112.25.48.68/live/program/live/jbtyhd/4000000/mnf.m3u8
+#EXTINF:-1 ,北京体育
+http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=158&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=1&Pcontent_id=.m3u8&Provider_id=
+#EXTINF:-1 ,咪咕视频
+http://39.134.66.66/PLTV/88888888/224/3221225638/index.m3u8
+#EXTINF:-1 ,国外MTV
+https://vcndstv.teleosmedia.com/stream/dstv/sunburn/seglist_720p.m3u8
+#EXTINF:-1 ,大爱海外
+https://pulltv3.wanfudaluye.com/live/tv3.m3u8
+#EXTINF:-1 ,广东体育
+http://116.199.5.52:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=20&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
+#EXTINF:-1 ,明星大片
+http://117.169.124.37:6610/ysten-businessmobile/live/mingxingdp/yst.m3u8
+#EXTINF:-1 ,百事通体育1	
+http://112.25.48.68/live/program/live/hdnba1/4000000/mnf.m3u8
+#EXTINF:-1 ,百事通体育2	
+http://112.25.48.68/live/program/live/hdnba2/4000000/mnf.m3u8
+#EXTINF:-1 ,百事通体育3	
+http://112.25.48.68/live/program/live/hdnba3/4000000/mnf.m3u8
+#EXTINF:-1 ,百事通体育5	
+http://112.25.48.68/live/program/live/hdnba5/4000000/mnf.m3u8
+#EXTINF:-1 ,百事通体育7	
+http://112.25.48.68/live/program/live/hdnba7/4000000/mnf.m3u8
