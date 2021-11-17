@@ -13,27 +13,6 @@ http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
 http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
 
 
-#EXTINF:-1 ,Astro Arena
-http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
-#EXTINF:-1 ,SPOTV
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live10.mpd
-#EXTINF:-1 ,Unifi Sport 2
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
-#EXTINF:-1 ,ELEVENSPORTS1HD
-http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
-#EXTINF:-1 ,LEVENSPORTS2HD
-http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,TNTSPORTS1
-https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
-#EXTINF:-1 ,TNTSPORTS2
-https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
-#EXTINF:-1 ,TNTSPORTS3
-https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
-#EXTINF:-1 ,TNTSPORTS4
-https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
-#EXTINF:-1 ,TNTSPORTS5
-https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
-
 #EXTINF:-1 ,Astro AOD
 http://50.7.161.82:8277/streams/d/aod_pye/playlist.m3u8
 #EXTINF:-1 ,Astro IQIYI
@@ -106,3 +85,51 @@ http://39.135.138.60:18890/PLTV/88888910/224/3221225641/index.m3u8
 #EXTINF:-1 ,CCTV-17 农业
 http://39.135.138.59:18890/PLTV/88888910/224/3221225908/index.m3u8
 
+#EXTINF:-1 group-title="SPORTS",Astro Arena
+http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS",SPOTV
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live10.mpd
+#EXTINF:-1 group-title="SPORTS",Unifi Sport 2
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
+#EXTINF:-1 group-title="SPORTS",ELEVENSPORTS1HD
+http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
+#EXTINF:-1 group-title="SPORTS",LEVENSPORTS2HD
+http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SPORTS",TNTSPORTS1
+https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
+#EXTINF:-1 group-title="SPORTS",TNTSPORTS2
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
+#EXTINF:-1 group-title="SPORTS",TNTSPORTS3
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
+#EXTINF:-1 group-title="SPORTS",TNTSPORTS4
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
+#EXTINF:-1 group-title="SPORTS",TNTSPORTS5
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
+#EXTINF:-1 group-title="SPORTS",S*y Sports 1
+http://93.152.174.144:4000/play/ssports1/index.m3u8
+#EXTINF:-1 group-title="SPORTS",S*y Sports 3
+http://93.152.174.144:4000/play/skysports3/index.m3u8
+#EXTINF:-1 group-title="SPORTS",S*y Sports 5
+http://93.152.174.144:4000/play/skysports5/index.m3u8
+#EXTINF:-1 group-title="SPORTS",BT SPORT ESPN
+http://93.152.174.144:4000/play/btsportespn/index.m3u8
+#EXTINF:-1 group-title="SPORTS",AstroSuperSport2
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/54207.m3u8
+#EXTINF:-1 group-title="SPORTS",ESPN MX
+http://45.225.93.154:8000/play/a028?checkedby:zaltv.co
+#EXTINF:-1 group-title="SPORTS",ESPN 2 MX
+http://45.225.93.154:8000/play/a027?checkedby:zaltv.co
+#EXTINF:-1 group-title="SPORTS",ESPN 3 MX
+http://45.225.93.154:8000/play/a03g?checkedby:zaltv.co
+#EXTINF:-1 group-title="SPORTS",ESPN DEPORTES HD
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/3613
+#EXTINF:-1 group-title="SPORTS",ESPN 1 SUR HD
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/3614
+#EXTINF:-1 group-title="SPORTS",ESPN 2 HD 
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/1080110
+#EXTINF:-1 group-title="SPORTS",FOX Sports 1 HD AUS
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+#EXTINF:-1 group-title="SPORTS", FOX SPORT
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13349
+#EXTINF:-1 group-title="SPORTS", FOX SPORT 2
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13352
