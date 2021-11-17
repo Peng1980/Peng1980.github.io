@@ -13,25 +13,25 @@ http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
 http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
 
 
-#EXTINF:-1 group-title="Astro Sports", Astro Arena
+#EXTINF:-1 ,Astro Arena
 http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
-#EXTINF:-1 group-title="All Sports", SPOTV
+#EXTINF:-1 ,SPOTV
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live10.mpd
-#EXTINF:-1 group-title="All Sports", Unifi Sport 2
+#EXTINF:-1 ,Unifi Sport 2
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
-#EXTINF:-1 ，ELEVENSPORTS1HD[1280*720]
+#EXTINF:-1 ,ELEVENSPORTS1HD
 http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
-#EXTINF:-1 ，ELEVENSPORTS2HD[960*540]
+#EXTINF:-1 ,LEVENSPORTS2HD
 http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ，TNTSPORTS1[1280*720]
+#EXTINF:-1 ,TNTSPORTS1
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
-#EXTINF:-1 ，TNTSPORTS2[1280*720]
+#EXTINF:-1 ,TNTSPORTS2
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
-#EXTINF:-1 ，TNTSPORTS3[1280*720]
+#EXTINF:-1 ,TNTSPORTS3
 https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
-#EXTINF:-1 ，TNTSPORTS4[1280*720]
+#EXTINF:-1 ,TNTSPORTS4
 https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
-#EXTINF:-1 ，TNTSPORTS5[1280*720]
+#EXTINF:-1 ,TNTSPORTS5
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 
 #EXTINF:-1 ,Astro AOD
@@ -54,37 +54,35 @@ http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
 http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
 #EXTINF:-1 ,HBO Malaysia
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
-#EXTINF:-1 ,Warner TV (720p)
+#EXTINF:-1 ,Warner TV
 http://203.154.243.89:11205
-#EXTINF:-1 ，高分影院
+#EXTINF:-1 ,Movie
 http://117.148.179.182/PLTV/88888888/224/3221231699/index.m3u8
-#EXTINF:-1 ，周星馳影院
+#EXTINF:-1 ,ChowXingChi
 http://117.148.179.153/PLTV/88888888/224/3221231562/index.m3u8
-#EXTINF:-1 ，成龍作品集
+#EXTINF:-1 ,ChengLong
 http://117.148.179.163/PLTV/88888888/224/3221231687/index.m3u8
-#EXTINF:-1 ，FoxMovies,
+#EXTINF:-1 ,Fox Movie
 http://60.251.59.178:8527/http/192.168.77.7:8088/hls/104/startwest89.m3u8
-#EXTINF:-1 ，AXN
+#EXTINF:-1 ,AXN
 http://50.7.61.148:30080/Entry/axn
-#EXTINF:-1 ，迪斯尼
-http://125.227.210.55:14250/VideoInput/play.ts
-#EXTINF:-1 ，DiscoveryHD,
+#EXTINF:-1 ,DiscoveryHD
 https://feed.play.mv/live/10005200/2Lkn0sCJBz/master.m3u8
 #EXTINF:-1 ,斗鱼电影2
 http://tx2play1.douyucdn.cn/live/20415rnWbjg6Ex1K.xs
-#EXTINF:-1 ，電影5_鬥魚
+#EXTINF:-1 ,斗鱼电影5
 http://dyscdnali1.douyucdn.cn/live/3637778raLSXdOdu.flv?uuid=
-#EXTINF:-1 ，電影6_鬥魚
+#EXTINF:-1 ,斗鱼电影6
 http://dyscdnali1.douyucdn.cn/live/122402rK7MO9bXSq.flv?uuid=
-#EXTINF:-1 ，電影8_鬥魚
+#EXTINF:-1 ,斗鱼电影8
 http://dyscdnali1.douyucdn.cn/live/85894rmovieChow.flv?uuid=
-#EXTINF:-1 ，電影14_鬥魚
+#EXTINF:-1 ,斗鱼电影14
 http://dyscdnali1.douyucdn.cn/live/3637765rrt97QwBF.flv?uuid=
-#EXTINF:-1 ，電影16_鬥魚
+#EXTINF:-1 ,斗鱼电影16
 http://dyscdnali1.douyucdn.cn/live/3637726rQLDdfto7.flv?uuid=
-#EXTINF:-1 ，電影18_鬥魚
+#EXTINF:-1 ,斗鱼电影18
 http://dyscdnali1.douyucdn.cn/live/3928r9p0BHMDG.flv?uuid=
-#EXTINF:-1 ，電影21_鬥魚
+#EXTINF:-1 ,斗鱼电影21
 http://dyscdnali1.douyucdn.cn/live/20415rnWbjg6Ex1K.flv?uuid=
 
 
