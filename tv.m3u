@@ -87,49 +87,55 @@ http://39.135.138.59:18890/PLTV/88888910/224/3221225908/index.m3u8
 
 #EXTINF:-1 group-title="SPORTS",Astro Arena
 http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS",SPOTV
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live10.mpd
-#EXTINF:-1 group-title="SPORTS",Unifi Sport 2
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
 #EXTINF:-1 group-title="SPORTS",ELEVENSPORTS1HD
 http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
 #EXTINF:-1 group-title="SPORTS",LEVENSPORTS2HD
 http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="SPORTS",TNTSPORTS1
-https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
-#EXTINF:-1 group-title="SPORTS",TNTSPORTS2
-https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
-#EXTINF:-1 group-title="SPORTS",TNTSPORTS3
-https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
-#EXTINF:-1 group-title="SPORTS",TNTSPORTS4
-https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
-#EXTINF:-1 group-title="SPORTS",TNTSPORTS5
-https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
-#EXTINF:-1 group-title="SPORTS",S*y Sports 1
-http://93.152.174.144:4000/play/ssports1/index.m3u8
-#EXTINF:-1 group-title="SPORTS",S*y Sports 3
-http://93.152.174.144:4000/play/skysports3/index.m3u8
-#EXTINF:-1 group-title="SPORTS",S*y Sports 5
-http://93.152.174.144:4000/play/skysports5/index.m3u8
-#EXTINF:-1 group-title="SPORTS",BT SPORT ESPN
-http://93.152.174.144:4000/play/btsportespn/index.m3u8
-#EXTINF:-1 group-title="SPORTS",AstroSuperSport2
-http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/54207.m3u8
-#EXTINF:-1 group-title="SPORTS",ESPN MX
-http://45.225.93.154:8000/play/a028?checkedby:zaltv.co
-#EXTINF:-1 group-title="SPORTS",ESPN 2 MX
-http://45.225.93.154:8000/play/a027?checkedby:zaltv.co
-#EXTINF:-1 group-title="SPORTS",ESPN 3 MX
-http://45.225.93.154:8000/play/a03g?checkedby:zaltv.co
-#EXTINF:-1 group-title="SPORTS",ESPN DEPORTES HD
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/3613
-#EXTINF:-1 group-title="SPORTS",ESPN 1 SUR HD
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/3614
-#EXTINF:-1 group-title="SPORTS",ESPN 2 HD 
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/1080110
-#EXTINF:-1 group-title="SPORTS",FOX Sports 1 HD AUS
-https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
 #EXTINF:-1 group-title="SPORTS", FOX SPORT
 http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13349
 #EXTINF:-1 group-title="SPORTS", FOX SPORT 2
 http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13352
+#EXTINF:-1 group-title="Зарубежный спорт" tvg-logo="../Channel/Logo/Fox Sports 1.png",FOX Sports HD
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=705&deviceId=5a74b8e1e22a61737979c6bf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812.png",SuperSport 2 ALT
+http://iptv.tvmalaysia.cc/jalan8/jalan8/9025
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/813.png",SuperSport 3 ALT
+http://iptv.tvmalaysia.cc/jalan8/jalan8/9020
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/814.png",SuperSport 4 ALT
+http://iptv.tvmalaysia.cc/jalan8/jalan8/9026
+#EXTINF:-1 group-title="Зарубежный спорт",EDGE SPORT FHD
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-edgesportxumo/CDN/master.m3u8
+#EXTINF:-1 group-title="Зарубежный спорт",Edge Sport FHD
+https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-logo="https://dvb.by/sources/logos/2963.png",Eurosport 1
+http://212.76.29.26:80/btv/SWM/Eurosport/Eurosport_576p_2000kbps.m3u8?token=AnonymousTV
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://epg.it999.ru/img/2052.png",Eurosport 1 HD
+http://212.76.29.26:80/btv/SWM/Eurosport/Eurosport.m3u8?token=AnonymousTV
+#EXTINF:-1 group-title="Спорт" tvg-logo="https://dvb.by/sources/logos/3141.png",Eurosport 2
+http://212.76.29.26:80/btv/SWM/Eurosport2/Eurosport2.m3u8?token=AnonymousTV
+#EXTINF:-1 group-title="Спорт" tvg-logo="https://dvb.by/sources/logos/1747.png",Eurosport 2 HD
+http://212.76.29.26:80/btv/SWM/Eurosport2/Eurosport2_576p_2000kbps.m3u8?token=AnonymousTV
+#EXTINF:-1 group-title="Спорт" tvg-logo="https://dvb.by/sources/logos/3508.png",Eurosport 4K
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/variant.m3u8?token=AnonymousTV
+
+#EXTINF:-1 group-title="Кино Premium" tvg-logo="http://epg.cdntv.online/img/1255.png",CineMan
+http://cdntv.online/high/wvj6futh2r/1255.m3u8
+#EXTINF:-1 group-title="Кино Premium" tvg-logo="http://epg.cdntv.online/img/1257.png",CineMan Action
+http://cdntv.online/high/wvj6futh2r/1257.m3u8
+#EXTINF:-1 group-title="Кино Premium" tvg-logo="http://epg.cdntv.online/img/1260.png",CineMan Marvel
+http://cdntv.online/high/wvj6futh2r/1260.m3u8
+
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://epg.it999.ru/img2/223.png",Nat Geo Wild
+http://212.76.29.26:80/btv/SWM/NatGeo_Wild/NatGeo_Wild.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://dvb.by/sources/logos/1026.png",Nat Geo Wild FHD
+https://okkotv-live.cdnvideo.ru/channel/NGC_Wild_HD.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://dvb.by/sources/logos/1026.png",Nat Geo Wild HD
+http://212.76.29.26:80/btv/SWM/NatGeo_channel/NatGeo_channel_720p_3500kbps.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://epg.it999.ru/img2/102.png",National Geographic
+http://cdntv.online/high/wvj6futh2r/309.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://epg.it999.ru/img2/102.png",National Geographic FHD
+http://cdntv.online/high/wvj6futh2r/310.m3u8
+
+
+
+
