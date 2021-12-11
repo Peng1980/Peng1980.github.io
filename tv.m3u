@@ -2,8 +2,6 @@
 #EXTINF:-1 tvg-id="cctv1" tvg-logo="cctv1.png",CCTV-1 综合
 http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
 
-
-
 #EXTINF:-1 tvg-id="cctv3" tvg-logo="cctv3.png",CCTV-3 综艺
 http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
 
@@ -30,6 +28,58 @@ http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-Supermovie/HD-8000k-1080P-Sup
 
 #EXTINF:-1 tvg-id="ifeng" tvg-logo="ifeng.png",凤凰中文
 http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="Chinese TV", Star Chinese Movies HD
+https://liveanevia.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="Chinese TV", Shanghai Dragon TV
+https://liveanevia.mncnow.id/live/eds/ShanghaiDragonTV/sa_dash_vmx/ShanghaiDragonTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="Chinese TV", Jiangsu TV
+https://liveanevia.mncnow.id/live/eds/JiangsuTV/sa_dash_vmx/JiangsuTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="Chinese TV", Hunan TV
+https://liveanevia.mncnow.id/live/eds/HunanTV/sa_dash_vmx/HunanTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="Chinese TV", XingKong TV
+https://liveanevia.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="Chinese TV", Anhui TV
+https://liveanevia.mncnow.id/live/eds/AnhuiTV/sa_dash_vmx/AnhuiTV.mpd
+
+
+#EXTINF:-1 group-title="Astro Sports", Astro Arena
+http://iptv.tvmalaysia.cc:80/penang189/penang189/6707
+
+#EXTINF:-1 group-title="Astro Sports", Astro Arena 2
+http://iptv.tvmalaysia.cc:80/penang189/penang189/9028
+
+#EXTINF:-1 group-title="Astro Sports", ASSP 1
+http://iptv.tvmalaysia.cc:80/penang189/penang189/9024
+
+#EXTINF:-1 group-title="Astro Sports", ASSP 2
+http://iptv.tvmalaysia.cc:80/penang189/penang189/9025
+
+#EXTINF:-1 group-title="Astro Sports", ASSP 3
+http://iptv.tvmalaysia.cc:80/penang189/penang189/9020
+
+#EXTINF:-1 group-title="Astro Sports", ASSP 4
+http://iptv.tvmalaysia.cc:80/penang189/penang189/9026
+
+#EXTINF:-1 group-title="Astro Sports", ASSP 5
+http://iptv.tvmalaysia.cc:80/penang189/penang189/9029
 
 #EXTINF:-1 ,Bein 1
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/6864
