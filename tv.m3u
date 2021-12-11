@@ -1,141 +1,106 @@
 #EXTM3U
-#EXTINF:-1 ,TV1 (720p)
-http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
-#EXTINF:-1 ,TV2 (720p)
-http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
-#EXTINF:-1 ,TV3
-http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
-#EXTINF:-1 ,NTV 7
-http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
-#EXTINF:-1 ,8TV
-http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
-#EXTINF:-1 ,TV9
-http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
-
-
-#EXTINF:-1 ,Astro AOD
-http://50.7.161.82:8277/streams/d/aod_pye/playlist.m3u8
-#EXTINF:-1 ,Astro IQIYI
-http://50.7.161.82:8277/streams/d/iqiyi_pye/playlist.m3u8
-#EXTINF:-1 ,Astro 双星
-http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
-#EXTINF:-1 ,Astro Awani
-http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
-#EXTINF:-1 ,NAT GEO wild
-http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
-#EXTINF:-1 ,TVB星河
-http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
-#EXTINF:-1 ,Celestial天映经典
-http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
-#EXTINF:-1 ,Celestial天映频道
-http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
-#EXTINF:-1 ,KBS WORLD
-http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
-#EXTINF:-1 ,HBO Malaysia
-http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
-#EXTINF:-1 ,Warner TV
-http://203.154.243.89:11205
-#EXTINF:-1 ,Movie
-http://117.148.179.182/PLTV/88888888/224/3221231699/index.m3u8
-#EXTINF:-1 ,ChowXingChi
-http://117.148.179.153/PLTV/88888888/224/3221231562/index.m3u8
-#EXTINF:-1 ,ChengLong
-http://117.148.179.163/PLTV/88888888/224/3221231687/index.m3u8
-#EXTINF:-1 ,Fox Movie
-http://60.251.59.178:8527/http/192.168.77.7:8088/hls/104/startwest89.m3u8
-#EXTINF:-1 ,DiscoveryHD
-https://feed.play.mv/live/10005200/2Lkn0sCJBz/master.m3u8
-#EXTINF:-1 ,斗鱼电影2
-http://tx2play1.douyucdn.cn/live/20415rnWbjg6Ex1K.xs
+#EXTINF:-1 tvg-id="cctv1" tvg-logo="cctv1.png",CCTV-1 综合
+http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
 
 
 
-#EXTINF:-1 ,CCTV-1 综合
-http://39.135.138.59:18890/PLTV/88888910/224/3221225642/index.m3u8
-#EXTINF:-1 ,CCTV-2 财经
-http://39.135.138.60:18890/PLTV/88888910/224/3221225619/index.m3u8
-#EXTINF:-1 ,CCTV-3 综艺
-http://39.135.138.60:18890/PLTV/88888910/224/3221225647/index.m3u8
-#EXTINF:-1 ,CCTV-4 中文国际
-http://39.135.138.60:18890/PLTV/88888910/224/3221225621/index.m3u8
-#EXTINF:-1 ,CCTV-5 体育
-http://39.135.138.59:18890/PLTV/88888910/224/3221225648/index.m3u8
-#EXTINF:-1 ,CCTV-5+ 体育
-http://39.135.138.60:18890/PLTV/88888910/224/3221225649/index.m3u8
-#EXTINF:-1 ,CCTV-6 电影
-http://39.135.138.59:18890/PLTV/88888910/224/3221225650/index.m3u8
-#EXTINF:-1 ,CCTV-7 国防军事
-http://39.135.138.59:18890/PLTV/88888910/224/3221225644/index.m3u8
-#EXTINF:-1 ,CCTV-8 电视剧
-http://39.135.138.59:18890/PLTV/88888910/224/3221225631/index.m3u8
-#EXTINF:-1 ,CCTV-9 记录片
-http://39.135.138.59:18890/PLTV/88888910/224/3221225626/index.m3u8
-#EXTINF:-1 ,CCTV-10 科教
-http://39.135.138.59:18890/PLTV/88888910/224/3221225627/index.m3u8
-#EXTINF:-1 ,CCTV-11 戏曲
-http://39.135.138.59:18890/PLTV/88888910/224/3221225628/index.m3u8
-#EXTINF:-1 ,CCTV-12 社会与法制
-http://39.135.138.59:18890/PLTV/88888910/224/3221225629/index.m3u8
-#EXTINF:-1 ,CCTV-13 新闻
-http://39.135.138.60:18890/PLTV/88888910/224/3221225638/index.m3u8
-#EXTINF:-1 ,CCTV-14 儿童
-http://39.135.138.60:18890/PLTV/88888910/224/3221225639/index.m3u8
-#EXTINF:-1 ,CCTV-15 音乐
-http://39.135.138.60:18890/PLTV/88888910/224/3221225641/index.m3u8
-#EXTINF:-1 ,CCTV-17 农业
-http://39.135.138.59:18890/PLTV/88888910/224/3221225908/index.m3u8
+#EXTINF:-1 tvg-id="cctv3" tvg-logo="cctv3.png",CCTV-3 综艺
+http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
 
-#EXTINF:-1 group-title="SPORTS",Astro Arena
-http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS",ELEVENSPORTS1HD
-http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
-#EXTINF:-1 group-title="SPORTS",LEVENSPORTS2HD
-http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="SPORTS", FOX SPORT
-http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13349
-#EXTINF:-1 group-title="SPORTS", FOX SPORT 2
-http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13352
-#EXTINF:-1 group-title="Зарубежный спорт" tvg-logo="../Channel/Logo/Fox Sports 1.png",FOX Sports HD
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=705&deviceId=5a74b8e1e22a61737979c6bf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812.png",SuperSport 2 ALT
-http://iptv.tvmalaysia.cc/jalan8/jalan8/9025
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/813.png",SuperSport 3 ALT
-http://iptv.tvmalaysia.cc/jalan8/jalan8/9020
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/814.png",SuperSport 4 ALT
-http://iptv.tvmalaysia.cc/jalan8/jalan8/9026
-#EXTINF:-1 group-title="Зарубежный спорт",EDGE SPORT FHD
+#EXTINF:-1 tvg-id="cctv4" tvg-logo="cctv4.png",CCTV-4 中文国际
+http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
+
+#EXTINF:-1 tvg-id="cctv5" tvg-logo="cctv5.png",CCTV-5 体育
+http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
+
+#EXTINF:-1 tvg-id="cctv5plus" tvg-logo="cctv5+.png",CCTV-5+ 体育赛事
+http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
+
+#EXTINF:-1 tvg-id="cctv6" tvg-logo="cctv6.png",CCTV-6 电影
+http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8
+
+#EXTINF:-1 tvg-id="cctv7" tvg-logo="cctv7.png",CCTV-7 国防军事
+http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
+
+#EXTINF:-1 tvg-id="cctv8" tvg-logo="cctv8.png",CCTV-8 电视剧
+http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
+
+#EXTINF:-1 tvg-id="hmdy" tvg-logo="hmdy.png",NewTV黑莓电影
+http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-Supermovie/HD-8000k-1080P-Supermovie
+
+#EXTINF:-1 tvg-id="ifeng" tvg-logo="ifeng.png",凤凰中文
+http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="http://images.pluto.tv/channels/5a74b8e1e22a61737979c6bf/colorLogoPNG.png",Pluto TV FOX Sports
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=705&deviceId=5a74b8e1e22a61737979c6bf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 group-title="Sports" tvg-logo="http://images.pluto.tv/channels/5a74b8e1e22a61737979c6bf/colorLogoPNG.png",Pluto TV FOX Sports (720p)
+https://stitcher.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=3fab7580-8b86-11e8-a44b-996a399dacd8&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=false
+#EXTINF:-1 group-title="Sports" tvg-logo="https://images.pluto.tv/channels/5e3ddd1a3ef73b00091d5779/colorLogoPNG.png",Pluto TV Fútbol Para Fans
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="Sport",FOX Sport HD 1
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/6h10JDk.png",EDGEsport (1080p)
+https://csm-e-stv.tls1.yospace.com/csm/live/195300285.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true",EDGEsport
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-edgesportxumo/CDN/master.m3u8
-#EXTINF:-1 group-title="Зарубежный спорт",Edge Sport FHD
+#EXTINF:-1 group-title="Sports",EDGEsport
+https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/AjRCYwR.png",EDGEsport (1080p)
+https://edgesport-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/aAUbLhE.png",EDGEsport
+https://edgesports-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Sports",EDGEsport
+https://edgesports-row-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://static1.squarespace.com/static/5a6f534f017db2d628751be1/t/5a6f5557652deada67290f54",EDGEsport (1080p)
 https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://dvb.by/sources/logos/2963.png",Eurosport 1
-http://212.76.29.26:80/btv/SWM/Eurosport/Eurosport_576p_2000kbps.m3u8?token=AnonymousTV
-#EXTINF:-1 group-title="Спорт" tvg-logo="http://epg.it999.ru/img/2052.png",Eurosport 1 HD
-http://212.76.29.26:80/btv/SWM/Eurosport/Eurosport.m3u8?token=AnonymousTV
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://dvb.by/sources/logos/3141.png",Eurosport 2
-http://212.76.29.26:80/btv/SWM/Eurosport2/Eurosport2.m3u8?token=AnonymousTV
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://dvb.by/sources/logos/1747.png",Eurosport 2 HD
-http://212.76.29.26:80/btv/SWM/Eurosport2/Eurosport2_576p_2000kbps.m3u8?token=AnonymousTV
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://dvb.by/sources/logos/3508.png",Eurosport 4K
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/variant.m3u8?token=AnonymousTV
-
-#EXTINF:-1 group-title="Кино Premium" tvg-logo="http://epg.cdntv.online/img/1255.png",CineMan
-http://cdntv.online/high/wvj6futh2r/1255.m3u8
-#EXTINF:-1 group-title="Кино Premium" tvg-logo="http://epg.cdntv.online/img/1257.png",CineMan Action
-http://cdntv.online/high/wvj6futh2r/1257.m3u8
-#EXTINF:-1 group-title="Кино Premium" tvg-logo="http://epg.cdntv.online/img/1260.png",CineMan Marvel
-http://cdntv.online/high/wvj6futh2r/1260.m3u8
-
-#EXTINF:-1 group-title="Познавательные" tvg-logo="http://epg.it999.ru/img2/223.png",Nat Geo Wild
-http://212.76.29.26:80/btv/SWM/NatGeo_Wild/NatGeo_Wild.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://dvb.by/sources/logos/1026.png",Nat Geo Wild FHD
-https://okkotv-live.cdnvideo.ru/channel/NGC_Wild_HD.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://dvb.by/sources/logos/1026.png",Nat Geo Wild HD
-http://212.76.29.26:80/btv/SWM/NatGeo_channel/NatGeo_channel_720p_3500kbps.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="http://epg.it999.ru/img2/102.png",National Geographic
-http://cdntv.online/high/wvj6futh2r/309.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="http://epg.it999.ru/img2/102.png",National Geographic FHD
-http://cdntv.online/high/wvj6futh2r/310.m3u8
-
-
-
+#EXTINF:-1 group-title="Sports" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/9661e155-c5b8-43f3-9e1c-0e87cb75ae94-small3x1_STIRR_Logo_0320_EdgeSport_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c",EDGEsport (STIRR) (1080p)
+https://dai.google.com/linear/hls/event/d4zeSI-dTuqizFrByjs3OA/master.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/AjRCYwR.png",EDGEsport (US) (720p)
+https://img-edgesport.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/5m0i9if.png",Eleven Sports (720p)
+https://elevensports-samsunguk-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/GhhN8mW.png",ESPN (720p)
+http://stream2.grandma.fit/fs2.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/CTgGetu.png",ESPN 2 (720p)
+http://164.68.124.111/espn2.m3u8
+#EXTINF:-1 group-title="Sports",Esport3 (1080p)
+https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://graph.facebook.com/Esport3/picture?width=320&height=320",Esport3 (1080p)
+https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist_DVR.m3u8
+#EXTINF:-1 group-title="ESPORTES" tvg-id="SporTV.br" tvg-name="All Sports" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/dRZ9CTG.png",All Sports
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
+#EXTINF:-1 group-title="ESPORTES" tvg-id="bandsports.br" tvg-name="BAND SPORTS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/BandSports_logo_2018.png",Band Sports
+http://livetv2021.site:8080/9897876765/6576567/103
+#EXTINF:-1 group-title="ESPORTES" tvg-id="espn.br" tvg-name="ESPN BRASIL" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://3.bp.blogspot.com/-TNq_WQvu70w/WVrJrd2fhWI/AAAAAAAA8KQ/J02VFD8ys-sKxshHsgbLuXVBJIH_IYlawCLcBGAs/s640/espnextra.png",ESPN BRASIL
+http://livetv2021.site:8080/9897876765/6576567/166
+#EXTINF:-1 group-title="ESPORTES" tvg-id="espn.br" tvg-name="ESPN BRASIL" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://3.bp.blogspot.com/-TNq_WQvu70w/WVrJrd2fhWI/AAAAAAAA8KQ/J02VFD8ys-sKxshHsgbLuXVBJIH_IYlawCLcBGAs/s640/espnextra.png",ESPN EXTRA FHD
+http://livetv2021.site:8080/9897876765/6576567/6626
+#EXTINF:-1 group-title="ESPORTES" tvg-id=".br" tvg-name="ESPN" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/ESR.png",ESPN 
+http://livetv2021.site:8080/9897876765/6576567/167
+#EXTINF:-1 group-title="ESPORTES" tvg-id="espn extra.br" tvg-name="ESPN EXTRA" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/ESR.png",ESPN EXTRA
+http://livetv2021.site:8080/9897876765/6576567/6618
+#EXTINF:-1 group-title="ESPORTES" tvg-id=".br" tvg-name="FOX SPORTS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/2888f73c-4ccf-4654-b1b4-5941a99aa867_m.jpg",FOX SPORTS FHD
+http://livetv2021.site:8080/9897876765/6576567/99
+#EXTINF:-1 group-title="ESPORTES" tvg-id=".br" tvg-name="FOX SPORTS 2" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/b0af71c6-9667-4002-82bd-d901ab8a5380_m.jpg",FOX SPORTS 2 FHD
+http://livetv2021.site:8080/9897876765/6576567/100
+#EXTINF:-1 group-title="ESPORTES" tvg-id="Premiere1.br" tvg-name="PREMIERE 1" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_premiere-2_m.png",PREMIERE
+http://livetv2021.site:8080/9897876765/6576567/122
+#EXTINF:-1 group-title="ESPORTES" tvg-id="Premiere2.br" tvg-name="PREMIERE 2" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_premiere-2_m.png",PREMIERE 2
+http://livetv2021.site:8080/9897876765/6576567/124
+#EXTINF:-1 group-title="ESPORTES" tvg-id="Premiere3.br" tvg-name="PREMIERE 3" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_premiere-2_m.png",PREMIERE 3
+http://livetv2021.site:8080/9897876765/6576567/6624
+#EXTINF:-1 group-title="ESPORTES" tvg-id="Premiere4.br" tvg-name="PREMIERE 4" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_premiere-2_m.png",PREMIERE 4
+http://livetv2021.site:8080/9897876765/6576567/419
+#EXTINF:-1 group-title="ESPORTES" tvg-id="Premiere5.br" tvg-name="PREMIERE 5" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_premiere-2_m.png",PREMIERE 5
+http://livetv2021.site:8080/9897876765/6576567/136
+#EXTINF:-1 group-title="ESPORTES" tvg-id="Premiere6.br" tvg-name="PREMIERE 6" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_premiere-2_m.png",PREMIERE 6
+http://livetv2021.site:8080/9897876765/6576567/134
+#EXTINF:-1 group-title="ESPORTES" tvg-id="Premiere7.br" tvg-name="PREMIERE 7" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_premiere-2_m.png",PREMIERE 7
+http://livetv2021.site:8080/9897876765/6576567/135
+#EXTINF:-1 group-title="ESPORTES" tvg-id="SporTV.br" tvg-name="SPORTV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_sportv_m.png",SPORTV FHD
+http://livetv2021.site:8080/9897876765/6576567/56
+#EXTINF:-1 group-title="ESPORTES" tvg-id="SporTV 2.br" tvg-name="SPORTV 2" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_sportv2_m.png",SPORTV 2 FHD
+http://livetv2021.site:8080/9897876765/6576567/101
+#EXTINF:-1 group-title="ESPORTES" tvg-id="SporTV 3.br" tvg-name="SPORTV3" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_sportv3_m.png",SPORTV 3 FHD
+http://livetv2021.site:8080/9897876765/6576567/114
 
