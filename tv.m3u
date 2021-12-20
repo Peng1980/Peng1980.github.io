@@ -29,6 +29,20 @@ http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-Supermovie/HD-8000k-1080P-Sup
 #EXTINF:-1 tvg-id="ifeng" tvg-logo="ifeng.png",凤凰中文
 http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
 
+#EXTINF:-1 ，電影8_鬥魚,
+http://dyscdnali1.douyucdn.cn/live/85894rmovieChow.flv?uuid=
+#EXTINF:-1 ,MOVIES GROUP
+http://tx2play1.douyucdn.cn/live/dyliveflv3/3637778raLSXdOdu_4000p.xs
+#EXTINF:-1 ,MOVIES GROUP
+http://tx2play1.douyucdn.cn/20415rnWbjg6Ex1K_4000p.xs?uuid=
+#EXTINF:-1 ,AXN
+http://playlist.urfan.web.id/dr9445/h/h141/01.m3u8
+#EXTINF:-1 ,&pictures HD
+https://sc.id-tv.kz/bollywood_hd_34_35.m3u8
+#EXTINF:-1 ,ANIMAX
+http://playlist.urfan.web.id/dr9445/h/h144/01.m3u8
+#EXTINF:-1 ,ANIPLUS
+http://playlist.urfan.web.id/dr9445/h/h02/01.m3u8
 
 #EXTINF:-1 ,Bein 1
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/6864
