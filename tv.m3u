@@ -14,58 +14,6 @@ http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index
 #EXTINF:-1 tvg-id="cctv8" tvg-logo="cctv8.png",CCTV-8 电视剧
 http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
 
-#EXTINF:-1 ,TV 1
-http://iptv.tvmalaysia.cc:80/174726/174726/7177
-#EXTINF:-1 ,TV 2
-http://iptv.tvmalaysia.cc:80/174726/174726/7178
-#EXTINF:-1 ,TV 3
-http://iptv.tvmalaysia.cc:80/174726/174726/7266
-#EXTINF:-1 ,TV 3 HD
-http://iptv.tvmalaysia.cc:80/174726/174726/8750
-#EXTINF:-1 ,Galaxy Premium
-http://iptv.tvmalaysia.cc:80/174726/174726/8838
-#EXTINF:-1 ,Galaxy
-http://iptv.tvmalaysia.cc:80/174726/174726/8839
-#EXTINF:-1 ,HBO FHD
-http://iptv.tvmalaysia.cc:80/174726/174726/7067
-#EXTINF:-1 ,HBO Signature FHD
-http://iptv.tvmalaysia.cc:80/174726/174726/7069
-#EXTINF:-1 ,HBO Family FHD
-http://iptv.tvmalaysia.cc:80/174726/174726/7070
-#EXTINF:-1 ,Hits Movies
-http://iptv.tvmalaysia.cc:80/174726/174726/7066
-#EXTINF:-1 ,Warner TV HD
-http://iptv.tvmalaysia.cc:80/174726/174726/7072
-#EXTINF:-1 ,tVN movies HD
-http://iptv.tvmalaysia.cc:80/174726/174726/7074
-#EXTINF:-1 ,National Geographic HD
-http://iptv.tvmalaysia.cc:80/174726/174726/7075
-#EXTINF:-1 ,Nat Geo Wild HD
-http://iptv.tvmalaysia.cc:80/174726/174726/7081
-#EXTINF:-1 ,Nat Geo People HD
-http://iptv.tvmalaysia.cc:80/174726/174726/7080
-#EXTINF:-1 ,Animal Planet
-http://iptv.tvmalaysia.cc:80/174726/174726/7077
-#EXTINF:-1 ,ASTRO SUPERSPORT HD
-http://iptv.tvmalaysia.cc:80/174726/174726/6708
-#EXTINF:-1 ,ASTRO SUPERSPORT 2 HD
-http://iptv.tvmalaysia.cc:80/174726/174726/6710
-#EXTINF:-1 ,ASTRO SUPERSPORT 3 HD
-http://iptv.tvmalaysia.cc:80/174726/174726/6711
-#EXTINF:-1 ,ASTRO SUPERSPORT 4 HD
-http://iptv.tvmalaysia.cc:80/174726/174726/6712
-#EXTINF:-1 ,Astro Supersport 5
-http://iptv.tvmalaysia.cc:80/174726/174726/9029
-#EXTINF:-1 ,FOX Sports HD
-http://iptv.tvmalaysia.cc:80/174726/174726/6793
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_asia.png",HBO
-https://www.dropbox.com/s/pv21nvv5ikap11w/HBOO.m3u8?dl=1
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_asia.png",HBO
-https://gratismkctv.net/film/hbo.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinemax_asia.png",Cinemax
-https://www.dropbox.com/s/nm9vobcwjc1wh6i/CINEMAXX.m3u8?dl=1
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/rr/red_by_hbo_us.png",Red By HBO
-https://www.dropbox.com/s/1wmlsklnt5xcfie/REDX.m3u8?dl=1
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://thumbs2.imgbox.com/c5/29/pZSnfNbm_t.jpg",FOX Action Movies HD
 http://916309128f3e.sn.mynetname.net:1935/aslive/ci/chunklist_w83033785.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png",MOVIES GROUP
@@ -74,18 +22,8 @@ http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 http://tx2play1.douyucdn.cn/live/dyliveflv3/3637778raLSXdOdu_4000p.xs
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png",MOVIES GROUP
 http://tx2play1.douyucdn.cn/20415rnWbjg6Ex1K_4000p.xs?uuid=
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/PfwJ92zT/bflix.png",Bflix MOVIES
-https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/RV70kRkT/BLACK-CINEMA.png",BLACK CINEMA
 https://stitcher.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/997452/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceType=web&deviceMake=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&deviceDNT=0&deviceModel=Chrome&userId=&appName=&app_name=&appStoreUrl=
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/56ae202a8ead0e9c3a8b45b0/1565806603214/adcf17f35ca60ce4664fc78fdbfc081f.png",&pictures HD
-https://sc.id-tv.kz/bollywood_hd_34_35.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/HsHFPK93/MAHA-MOVIE.png",MAHA MOVIE
-https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hits_tv_sg.png",HITS
-https://www.livedoomovie.com/02_HISTORYHD_720p/chunklist.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/aa/axn_east_asia.png",AXN
-https://www.livedoomovie.com/02_AXNHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="hmdy" tvg-logo="hmdy.png",NewTV黑莓电影
 http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-Supermovie/HD-8000k-1080P-Supermovie
 
