@@ -16,6 +16,8 @@ http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://thumbs2.imgbox.com/c5/29/pZSnfNbm_t.jpg",FOX Action Movies HD
 http://916309128f3e.sn.mynetname.net:1935/aslive/ci/chunklist_w83033785.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png",MOVIES US
+https://hls3a-akm.douyucdn.cn/live/7254536rnRqQb4cQ/playlist.m3u8?wsAuth=25c91328834799640ef54d28d699072b&token=web-cph-0-7254536-cdd8ed60a77d0a5ff68eea271bba91d0899a4e8e51f05615&logo=0&expire=0&did=46ce0159a555464aa757c25c00021601&pt=2&st=0&origin=tct&mix=0&isp=&v=220120220120&did=46ce0159a555464aa757c25c00021601&tt=1642657252&sign=e5f0c0f221bca9d0a241a97b90b01f81&cdn=&rate=2&ver=Douyu_222012005&iar=1&ive=1&hevc=0&fa=0
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png",MOVIES GROUP
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png",MOVIES GROUP
