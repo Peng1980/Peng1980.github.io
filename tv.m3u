@@ -30,5 +30,6 @@ https://stitcher.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/997452/pla
 http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-Supermovie/HD-8000k-1080P-Supermovie
 #EXTINF:-1 ，电影
 http://live1.ahtv.cn/ahws/playlist.m3u8?_upt=069202151641035727
-
+#EXTINF:-1 ，HK Drama
+https://hls3-akm.douyucdn.cn/live/6478650rkCiympGD_900/playlist.m3u8?wsAuth=9cfbc1833138bb9db5ba3d1e38eb881e&token=web-cph-0-6478650-6dc7a195560047a54deeca13740c04acaa7deca948f91129&logo=0&expire=0&did=46ce0159a555464aa757c25c00021601&pt=2&st=0&origin=tct&mix=0&isp=&v=220120220120&did=46ce0159a555464aa757c25c00021601&tt=1642657556&sign=def0fbdfc8cdaa06e7c535c3e5494125&cdn=&rate=0&ver=Douyu_222012005&iar=1&ive=1&hevc=0&fa=0
 
