@@ -14,8 +14,57 @@ http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index
 #EXTINF:-1 tvg-id="cctv8" tvg-logo="cctv8.png",CCTV-8 电视剧
 http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://thumbs2.imgbox.com/c5/29/pZSnfNbm_t.jpg",FOX Action Movies HD
-http://916309128f3e.sn.mynetname.net:1935/aslive/ci/chunklist_w83033785.m3u8
+
+
+
+#EXTM3U
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/SRgQLxhS/nba.png",NBA TV
+http://84.22.33.215/nbatv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,# just found this on 03/08/2022
+http://168.232.168.242:8000/play/a00j/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://assets.pikiran-rakyat.com/crop/389x42:662x365/x/photo/2021/04/03/1516238093.jpg",Star Sports Select 1 HD
+http://live.flixhub.net/hls/Star_Sport_Select1HD.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://assets.pikiran-rakyat.com/crop/389x42:662x365/x/photo/2021/04/03/1516238093.jpg",Star Sports Select 2 HD
+http://live.flixhub.net/hls/select2.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://assets.pikiran-rakyat.com/crop/389x42:662x365/x/photo/2021/04/03/1516238093.jpg",Star Sports 1 HD
+http://live.flixhub.net/hls/stersports1hd.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://assets.pikiran-rakyat.com/crop/389x42:662x365/x/photo/2021/04/03/1516238093.jpg",Star Sports 2 HD
+http://live.flixhub.net/hls/starsports2.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/MRULdc8.png",BEIN SPORTS 1
+http://red.ipfox.org:8080/1234/12345678/31555
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/NDp6TlM.png",BEIN SPORTS 2
+http://red.ipfox.org:8080/1234/12345678/31554
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/j8VC6nB.png",BEIN SPORTS 3
+http://red.ipfox.org:8080/1234/12345678/31553
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/Lu26Yho.png",BEIN SPORTS 4
+http://red.ipfox.org:8080/1234/12345678/31552
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/pA5by2y.png",BEIN SPORTS 5
+http://red.ipfox.org:8080/1234/12345678/31551
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/mbFoSUX.png",BEIN SPORTS 6
+http://red.ipfox.org:8080/1234/12345678/31550
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/eHCosqi.png",BEIN SPORTS 7
+http://red.ipfox.org:8080/1234/12345678/31549
+#EXTINF:-1 ,ESPN HD
+http://168.232.168.242:8000/play/a06f/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/FieopQP.png",Astro SUPER SPORT 5
+http://iptv.tvmalaysia.cc:80/114048/114048/9029
+
+
+
+#EXTINF:-1 ,CONCERT CHANNEL
+http://168.232.168.242:8000/play/a00z/index.m3u8
+#EXTINF:-1 ,&PRIVE HD-Rs 19
+http://103.153.39.36:8000/play/a01d
+#EXTINF:-1 ,&flix HD-Rs19
+http://103.153.39.36:8000/play/a00p
+#EXTINF:-1 ,PIX HD - Rs 15
+http://103.153.39.36:8000/play/a016
+#EXTINF:-1 ,STAR MOV HD-Rs 19
+http://103.153.39.36:8000/play/a00v
+#EXTINF:-1 ,StarMov S HD-Rs 10
+http://103.153.39.36:8000/play/a00w
+#EXTINF:-1 ,超级电影
+http://39.134.115.163:8080/PLTV/88888910/224/3221225766/index.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png",MOVIES US
 https://hls3a-akm.douyucdn.cn/live/7254536rnRqQb4cQ/playlist.m3u8?wsAuth=25c91328834799640ef54d28d699072b&token=web-cph-0-7254536-cdd8ed60a77d0a5ff68eea271bba91d0899a4e8e51f05615&logo=0&expire=0&did=46ce0159a555464aa757c25c00021601&pt=2&st=0&origin=tct&mix=0&isp=&v=220120220120&did=46ce0159a555464aa757c25c00021601&tt=1642657252&sign=e5f0c0f221bca9d0a241a97b90b01f81&cdn=&rate=2&ver=Douyu_222012005&iar=1&ive=1&hevc=0&fa=0
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png",MOVIES GROUP
@@ -24,12 +73,3 @@ http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 http://tx2play1.douyucdn.cn/live/dyliveflv3/3637778raLSXdOdu_4000p.xs
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png",MOVIES GROUP
 http://tx2play1.douyucdn.cn/20415rnWbjg6Ex1K_4000p.xs?uuid=
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/RV70kRkT/BLACK-CINEMA.png",BLACK CINEMA
-https://stitcher.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/997452/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceType=web&deviceMake=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&deviceDNT=0&deviceModel=Chrome&userId=&appName=&app_name=&appStoreUrl=
-#EXTINF:-1 tvg-id="hmdy" tvg-logo="hmdy.png",NewTV黑莓电影
-http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-Supermovie/HD-8000k-1080P-Supermovie
-#EXTINF:-1 ，电影
-http://live1.ahtv.cn/ahws/playlist.m3u8?_upt=069202151641035727
-#EXTINF:-1 ，HK Drama
-https://hls3-akm.douyucdn.cn/live/6478650rkCiympGD_900/playlist.m3u8?wsAuth=9cfbc1833138bb9db5ba3d1e38eb881e&token=web-cph-0-6478650-6dc7a195560047a54deeca13740c04acaa7deca948f91129&logo=0&expire=0&did=46ce0159a555464aa757c25c00021601&pt=2&st=0&origin=tct&mix=0&isp=&v=220120220120&did=46ce0159a555464aa757c25c00021601&tt=1642657556&sign=def0fbdfc8cdaa06e7c535c3e5494125&cdn=&rate=0&ver=Douyu_222012005&iar=1&ive=1&hevc=0&fa=0
-
