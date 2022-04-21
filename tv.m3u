@@ -15,6 +15,10 @@ http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index
 http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
 #EXTINF:-1 ,五星体育
 http://iptv.tvfix.org/hls/wxtyhd.m3u8
+#EXTINF:-1 ,五星体育01
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/ssty/4000000/mnf.m3u8
+#EXTINF:-1 ,五星体育02
+http://111.40.196.25/PLTV/88888888/224/3221225503/index.m3u8
 #EXTINF:-1 ,凤凰资讯
 http://iptv.tvfix.org/hls/fhzx.m3u8
 #EXTINF:-1 ,凤凰电影
