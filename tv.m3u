@@ -10,3 +10,42 @@ https://hls1a-akm.douyucdn.cn/live/4332ry0OocHgMnua_900/playlist.m3u8?wsAuth=79f
 http://live.tvfix.org/hls/starsports.m3u8
 #EXTINF:-1 ,五星体育
 http://aliyun4a-live.bestvcdn.com.cn/live/program/Dbestvapp-mobile-v4.live.bestvcdn.com.cnD/_monegnfo_key92A0430FF2FD956CBE1D7994F797279118AED382639685DB252584DB2DB634383634D7DB36EB6381D7A9FA116B2B4B4C6E5E871B5C167BB9552015D834156B39F3F9FE0229FD293D73363BBCDDB99543E2E3FD8FE190BD5F24CE3AA8DAC2566BEF0BFFB6F9DAE3DD1ED69BC2DCA4C47F_/live/ssty/4000000/d1.m3u8
+#EXTINF:-1,TSN 1 Canada
+
+http://38.91.57.12:2082/tsn1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,TSN 2 Canada
+
+http://38.91.57.12:2082/tsn2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,TSN 3 Canada
+
+http://38.91.57.12:2082/tsn3/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,TSN 4 Canada
+
+http://38.91.57.12:2082/tsn4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,TSN 5 Canada
+
+http://38.91.57.12:2082/tsn5/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,ESPN 2 Argentina
+
+http://168.196.114.15:80/espn2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,ESPN 1 USA
+
+http://99.27.51.147:8080/ESPN1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,ESPN 2 USA
+
+http://99.27.51.147:8080/ESPN2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Sky Sports F1 UK
+
+http://185.152.66.55/98783/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Sky Sports F1 UK
+
+http://185.132.132.192:8080/SKYSPF1/tracks-v1a1/mono.m3u8
