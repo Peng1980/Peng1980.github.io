@@ -1,4 +1,61 @@
 #EXTM3U
-#EXTINF:-1,Music
-https://rr2---sn-q4fl6nz6.googlevideo.com/videoplayback/id/QTz6avPD4Ns.4/itag/96/source/yt_live_broadcast/expire/1663774120/ei/SNkqY76PDd2T_tcPx9OciAs/ip/40.124.41.121/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/rr2---sn-q4fl6nz6.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/mh/lx/mm/44/mn/sn-q4fl6nz6/ms/lva/mv/u/mvi/2/pl/16/keepalive/yes/fexp/24001373,24007246/mt/1663751540/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRQIhAKr7_1cMjhgiWi_Xa91jCctRD9rYrP3ts-Xc1HIcapJxAiA47Y1AszjYvFwoZbSIdBZEXom9w9nR1IYjKvuV5xm5aA%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIhALEwFSZZQfxCPYTlPO9KVS9NWF9A-1JFEutccWbThbXkAiBGVN5oTXgzcoFQ3Y98EiZSh4trlLsYrvPloPm_ZCL6sw%3D%3D/playlist/index.m3u8/sq/8447/goap/clen%3D81992%3Blmt%3D1663739536590310/govp/clen%3D1456347%3Blmt%3D1663739536590308/dur/5.000/file/seg.ts
-
+#EXTINF:-1 tvg-id="BeanoTV.uk" status="online",Beano TV (720p)
+https://a7b60a6853d843dd9105acfa8d6e74c7.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_BeanoTV/playlist.m3u8
+#EXTINF:-1 tvg-id="BloombergTVPlus.us" status="online",Bloomberg TV+ UHD (2160p)
+https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="BloombergTVPlus.us" status="error",Bloomberg TV+ UHD (2160p)
+https://bc20d7c2a7b14dd0ae827a2e3eb99116.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_Bloomberg/playlist.m3u8
+#EXTINF:-1 tvg-id="ClubbingTV.fr" status="online",Clubbing TV (720p)
+https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CNNInternationalEurope.us" status="online",CNN International UK (720p) [Not 24/7]
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="ComedyChannel.uk" status="online",Comedy Channel (1080p)
+https://uksono1-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="EDGEsport.uk" status="online",EDGEsport (1080p)
+https://edgesport-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="EuronewsEnglish.fr" status="online",Euronews English (720p)
+https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="FTFForthefans.uk" status="online",FTF For the fans (720p)
+https://elevensports-uk.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="FuelTV.us" status="online",Fuel TV (1080p)
+https://fueltv-fueltv-2-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="GustoTV.au" status="online",Gusto TV (720p)
+https://gustotv-samsung-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="HorseandCountry.uk" status="online",Horse and Country (720p)
+https://hncfree-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="InsightTV.nl" status="online",Insight TV (720p)
+https://insighttv-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="InWild.nl" status="online",InWild (720p)
+https://inwild-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="InWonder.nl" status="online",InWonder (720p)
+https://inwonder-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MovieSphere.us" status="online",MovieSphere (1080p)
+https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="PBSAmerica.uk" status="online",PBS America (720p)
+https://pbs-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="QwestTVClassical.fr" status="online",Qwest TV Classical (720p) [Geo-blocked]
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/qwestAAAA-qwestclassic-uk-samsungtv/playlist.m3u8
+#EXTINF:-1 tvg-id="QwestTVJazzBeyond.fr" status="online",Qwest TV Jazz & Beyond (720p) [Geo-blocked]
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/qwestAAAA-qwestjazz-uk-samsungtv/playlist.m3u8
+#EXTINF:-1 tvg-id="QwestTVMix.fr" status="online",Qwest TV Mix (720p) [Geo-blocked]
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/qwestAAAA-qwestmix-uk-samsungtv/playlist.m3u8
+#EXTINF:-1 tvg-id="RealStories.uk" status="online",Real Stories (720p)
+https://realstories-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="SofyTV.ch" status="online",Sofy TV (720p)
+https://sofytv-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="SparkTV.uk" status="online",Spark Tv (720p)
+https://sparktv-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="StingrayQello.ca" status="online",Qello Concerts by Stingray (1080p)
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_uk_stingrayqello_001.m3u8
+#EXTINF:-1 tvg-id="Teletubbies.uk" status="online",Teletubbies (720p)
+https://8f720e1353ce43b8babcd780fe178755.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_WildBrainPresentsTeletubbies/playlist.m3u8
+#EXTINF:-1 tvg-id="TennisChannel.us" status="online",Tennis Channel (UK) (720p)
+https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TennisChannel.us" status="online",Tennis Channel (720p)
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TimeLine.uk" status="online",Time Line (720p)
+https://timeline-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Wonder.uk" status="online",Wonder (720p)
+https://wonder-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" status="online",Fashion TV (England) (1080p) [Not 24/7]
+https://fashiontv-fashiontv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
